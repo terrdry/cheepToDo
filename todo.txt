@@ -1,0 +1,17 @@
+(R) 2019-09-28 Almaden corridor @biking +MountainBiking
+(A) 2019-09-29 Make sync script cronnable +Productivity @maintenance @home due:2019-11-17
+(W) 2019-10-13 Recharge UE bathroom @home @maintenance @biweekly due:2019-11-30
+(R) 2019-10-27 Pay bills @biweekly +Tasks due:2019-11-18
+(G) 2019-10-12 Bike ride @weekly due:2019-11-23
+(K) 2019-10-30 DuoLingo Spanish @daily +Languages due:2019-11-18
+(C) 2019-11-09 Pick up backyard poo +Tasks @biweekly due:2019-11-23
+x 2019-11-17 2019-11-09 Clean/vacumn home office @home @weekly due:2019-11-16 pri:F
+x 2019-11-17 2019-11-09 Update KeePassX @maintenance @weekly due:2019-11-16 pri:A
+x 2019-11-16 2019-11-09 Fill-up Water @weekly @errands +Tasks due:2019-11-16 pri:D
+x 2019-11-17 2019-10-27 Take blood pressure @weekly @home due:2019-11-17 pri:E
+(C) 2019-10-27 Organize Bookmarks +GTD-Weekly @home @weekly due:2019-11-24
+(P) 2019-11-10 Process my digital inboxes @weekly @home +GTD-Weekly due:2019-11-23
+x 2019-11-17 2019-11-10 Hacker News @weekly due:2019-11-17 pri:J
+(R) 2019-11-11 Treadmill Run @fitness @daily due:2019-11-18
+x 2019-11-12 2019-11-11 Daily Yoga Stretch @daily @fitness @home +Fit due:2019-11-12 pri:A
+x 2019-11-12 2019-11-11 Daily Meditation @daily @fitness +Fit @home due:2019-11-12 pri:A
